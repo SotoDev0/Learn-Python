@@ -1,5 +1,5 @@
 📝 To-Do List App
-Una aplicación simple pero poderosa de lista de tareas que te permite organizar tus pendientes de manera eficiente.
+-Una aplicación simple pero poderosa de lista de tareas que te permite organizar tus pendientes de manera eficiente.
 
 🚀 Tecnologías Utilizadas
 Frontend: HTML - CSS
