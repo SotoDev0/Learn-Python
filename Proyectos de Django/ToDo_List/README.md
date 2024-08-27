@@ -1,21 +1,29 @@
-#To-Do List App
+📝 To-Do List App
+Una aplicación simple pero poderosa de lista de tareas que te permite organizar tus pendientes de manera eficiente.
 
-##Descripcion
-Una aplicación simple de lista de tareas que permite a los usuarios agregar, eliminar y marcar tareas como completadas.
+🚀 Tecnologías Utilizadas
+Frontend: HTML - CSS
+Backend: Python - DJANGO
+Base de datos: SqlLite
 
-##Tecnologias
-- **Frontend:** HTML, CSS.
-- **Backend:** Python, Django.
-- **Base de datos:** SQLite.
+🌟 Características
+CRUD de tareas: Crea, lee, actualiza y elimina tus tareas con facilidad.
+Autenticación de usuarios: Cada usuario tiene su propia lista de tareas.
+Gestión de tareas: Marca tareas como completadas o pendientes.
+Filtrado: Filtra tus tareas según su estado (completadas, pendientes o todas).
+Buscador: Encuentra tareas rápidamente por su nombre.
+Interfaz intuitiva: Fácil de usar para todos los usuarios.
+Diseño responsivo: Optimizado para todos los dispositivos, desde móviles hasta desktop.
 
+🎯 Requisitos Funcionales
+🛠️ CRUD completo de tareas.
+🔒 Autenticación de usuarios para listas personalizadas.
+✅ Marcar tareas como completadas o pendientes.
+🔍 Filtrado por estado de las tareas.
+📚 Buscador de tareas por nombre.
+💡 Interfaz fácil de utilizar e intuitiva.
 
-##Requerimientos Funciones y No Funcionales
-- CRUD de tareas.
-- Autenticación de usuarios para que cada uno tenga su lista personal.
-- Marcar tareas como completadas y pendientes.
-- Filtrado de tareas ( completadas, pendientes, todas).
-- Buscador de tareas por nombre.
-- Facil de utilizar
-- Intuitivo
-- Responsivo
-
+🎨 Requisitos No Funcionales
+🎯 Interfaz responsiva y adaptativa para todos los dispositivos.
+🚀 Rápido y eficiente en la gestión de tareas.
+🧩 Diseño intuitivo para una experiencia de usuario fluida.
